@@ -1,0 +1,101 @@
+Age,Gender,Income,Geography,Preferred_EV_Type,Loan,Education
+58,Male,57864,Rural,Sedan,Car Loan,Diploma
+64,Male,53347,Suburban,Sedan,Car Loan,Master's
+50,Non-Binary,144759,Rural,Hatchback,Car Loan,Doctorate
+43,Female,123791,Suburban,Truck,No Loan,Master's
+43,Male,123432,Suburban,SUV,Car Loan,High School
+24,Female,58483,Suburban,Truck,Car Loan,High School
+41,Male,93796,Suburban,SUV,Car Loan,Master's
+35,Male,54284,Rural,Truck,Car Loan,High School
+49,Non-Binary,39011,Suburban,Crossover,Car Loan,Doctorate
+53,Non-Binary,101075,Urban,Truck,Home Loan,Doctorate
+24,Female,179987,Suburban,Hatchback,Personal Loan,Diploma
+34,Male,36420,Rural,Hatchback,Home Loan,Bachelor's
+50,Non-Binary,111666,Rural,Truck,Car Loan,Doctorate
+29,Female,140625,Urban,Sedan,Personal Loan,Doctorate
+32,Non-Binary,149145,Rural,SUV,Car Loan,Diploma
+61,Non-Binary,50139,Suburban,Sedan,Personal Loan,Doctorate
+28,Male,47846,Suburban,Sedan,No Loan,Doctorate
+24,Non-Binary,83412,Urban,SUV,No Loan,High School
+57,Non-Binary,69770,Suburban,Hatchback,Personal Loan,Bachelor's
+44,Non-Binary,110067,Rural,SUV,Car Loan,Master's
+40,Female,162215,Suburban,Truck,No Loan,Doctorate
+50,Female,169940,Rural,SUV,Personal Loan,Doctorate
+41,Female,125936,Urban,Crossover,Home Loan,Master's
+60,Non-Binary,106523,Urban,Hatchback,Home Loan,Master's
+18,Non-Binary,110369,Urban,Sedan,Car Loan,Doctorate
+20,Male,147468,Urban,Crossover,Car Loan,Doctorate
+28,Female,197533,Suburban,Truck,Car Loan,High School
+57,Non-Binary,114161,Urban,Sedan,Home Loan,High School
+60,Female,45246,Suburban,Sedan,Personal Loan,Diploma
+19,Male,186013,Rural,Hatchback,Home Loan,Diploma
+25,Non-Binary,105679,Urban,Truck,Personal Loan,Master's
+44,Non-Binary,52606,Rural,Sedan,Personal Loan,Doctorate
+22,Female,144099,Suburban,Hatchback,Personal Loan,Diploma
+56,Male,165771,Urban,Truck,No Loan,Diploma
+35,Female,182588,Rural,Sedan,Car Loan,Bachelor's
+63,Non-Binary,75676,Suburban,Truck,Home Loan,Diploma
+43,Male,148669,Urban,Sedan,Home Loan,Bachelor's
+33,Male,92909,Rural,SUV,Car Loan,Doctorate
+43,Non-Binary,171933,Rural,Truck,No Loan,Bachelor's
+31,Male,168151,Suburban,Truck,Personal Loan,Doctorate
+28,Non-Binary,96891,Urban,Sedan,Personal Loan,Bachelor's
+25,Female,190795,Suburban,Truck,Car Loan,High School
+39,Male,185167,Suburban,SUV,Home Loan,Diploma
+27,Non-Binary,117558,Suburban,Hatchback,Personal Loan,Master's
+53,Non-Binary,131342,Suburban,Hatchback,Home Loan,Diploma
+23,Female,128954,Urban,Truck,Car Loan,High School
+25,Non-Binary,174694,Urban,SUV,Personal Loan,Bachelor's
+21,Female,114401,Rural,Truck,Car Loan,Diploma
+19,Female,85040,Rural,Truck,No Loan,Diploma
+50,Male,140111,Urban,Crossover,No Loan,Bachelor's
+30,Non-Binary,147781,Rural,SUV,Personal Loan,Diploma
+35,Female,120505,Urban,Sedan,Home Loan,Diploma
+24,Female,142019,Urban,SUV,Home Loan,Diploma
+58,Non-Binary,143514,Urban,Sedan,Home Loan,Diploma
+30,Female,170157,Rural,SUV,Car Loan,High School
+56,Non-Binary,31277,Suburban,Crossover,Car Loan,Diploma
+52,Female,143835,Urban,SUV,Personal Loan,Diploma
+24,Female,189224,Rural,Sedan,Home Loan,Master's
+58,Non-Binary,103339,Suburban,Crossover,Home Loan,Diploma
+63,Male,32028,Rural,SUV,Car Loan,Doctorate
+46,Non-Binary,170389,Rural,Hatchback,Personal Loan,Doctorate
+25,Male,109007,Rural,Sedan,Car Loan,Master's
+37,Male,33434,Suburban,Sedan,No Loan,Bachelor's
+35,Non-Binary,158284,Suburban,Hatchback,Personal Loan,Doctorate
+20,Female,68420,Suburban,SUV,Personal Loan,Doctorate
+63,Female,121216,Suburban,Crossover,No Loan,High School
+34,Male,64319,Rural,Hatchback,Personal Loan,Master's
+30,Female,121942,Suburban,SUV,Home Loan,High School
+59,Female,85996,Rural,SUV,Home Loan,Doctorate
+56,Non-Binary,70519,Suburban,Sedan,No Loan,Doctorate
+60,Male,60150,Urban,SUV,Home Loan,Diploma
+55,Female,59776,Rural,Hatchback,Personal Loan,Diploma
+31,Male,156290,Rural,Truck,Personal Loan,Diploma
+61,Female,69327,Urban,Crossover,Car Loan,Bachelor's
+62,Female,68167,Suburban,Sedan,Car Loan,High School
+64,Female,190938,Urban,Truck,Car Loan,High School
+61,Non-Binary,119414,Rural,Crossover,Personal Loan,Master's
+56,Male,112056,Urban,Hatchback,Car Loan,Diploma
+25,Male,187836,Rural,Truck,Home Loan,Doctorate
+21,Male,105193,Urban,Truck,Home Loan,Doctorate
+41,Male,100058,Rural,Truck,No Loan,Doctorate
+37,Non-Binary,126362,Rural,Truck,Personal Loan,Doctorate
+52,Non-Binary,105095,Urban,SUV,Car Loan,Master's
+51,Male,184105,Suburban,Sedan,Home Loan,Doctorate
+65,Female,194438,Rural,Truck,Home Loan,Doctorate
+28,Non-Binary,187543,Suburban,Hatchback,Car Loan,High School
+59,Female,134694,Rural,SUV,Home Loan,Bachelor's
+37,Male,66995,Rural,Hatchback,Home Loan,Master's
+43,Male,90630,Suburban,Crossover,Personal Loan,Master's
+54,Non-Binary,187070,Urban,Sedan,No Loan,Doctorate
+58,Male,147645,Suburban,Truck,Home Loan,Master's
+62,Male,42382,Urban,SUV,Personal Loan,Master's
+65,Female,185090,Urban,Hatchback,No Loan,Bachelor's
+64,Female,167557,Rural,Sedan,Home Loan,Master's
+31,Female,173608,Suburban,Truck,Car Loan,Master's
+25,Female,98938,Suburban,SUV,No Loan,Master's
+37,Non-Binary,138962,Suburban,Truck,Personal Loan,High School
+19,Male,40529,Suburban,SUV,Home Loan,Bachelor's
+45,Female,35705,Suburban,SUV,No Loan,Bachelor's
+24,Male,114780,Rural,Hatchback,Car Loan,High School
