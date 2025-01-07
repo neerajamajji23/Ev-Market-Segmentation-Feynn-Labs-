@@ -1,0 +1,102 @@
+Company Name,Vehicle Type,Vehicle Sales,Ages (Between),Income,Geographical Location,Wheels
+Tata Motors,Electric Car,14564,18-35,687646,Hubli,Four-Wheeler
+Ola Electric,Electric Auto,2429,18-35,1552750,Kozhikode,Two-Wheeler
+Mahindra Electric,Electric Car,9568,25-45,1010401,Pune,Four-Wheeler
+Ather Energy,Scooter,14845,30-50,1530766,Coimbatore,Two-Wheeler
+Hero Electric,Scooter,13796,20-40,922869,Bangalore,Two-Wheeler
+Bajaj Auto,Electric Bike,9382,35-55,1143567,Chandigarh,Two-Wheeler
+MG Motors,Electric SUV,10246,25-45,470332,Delhi,Four-Wheeler
+Hyundai,Electric Cab,1488,25-45,1038689,Vishakhapatnam,Four-Wheeler
+Revolt Motors,Electric Cab,12753,18-35,1365505,Kozhikode,Four-Wheeler
+Kinetic Green,Scooter,1583,30-50,1535334,Gwalior,Two-Wheeler
+TVS Motors,E-Bike Sharing,10561,18-35,484529,Kolkata,Two-Wheeler
+Nissan,Electric Cab,6797,18-35,1240338,Salem,Four-Wheeler
+Maruti Suzuki,E-Scooter Sharing,8211,20-40,1042594,Pondicherry,Two-Wheeler
+Ampere Vehicles,Electric Bus,14619,25-45,1221759,Chandigarh,Four-Wheeler
+Okinawa,Electric Car,10352,35-55,1373110,Pune,Four-Wheeler
+Pure EV,Electric Auto,9567,18-35,575451,Kota,Two-Wheeler
+Evolet India,Electric Auto,13224,25-45,1502381,Jodhpur,Two-Wheeler
+Ashok Leyland,Electric Auto,9933,35-55,1203526,Srinagar,Two-Wheeler
+JBM Auto,Electric Cab,14329,35-55,1398629,Bangalore,Four-Wheeler
+BYD India,Electric Car Rental,11492,30-50,1321866,Rourkela,Four-Wheeler
+Audi,E-Scooter Sharing,7675,25-45,1688850,Srinagar,Two-Wheeler
+Mercedes-Benz,Motorcycle,14812,25-45,1214231,Shimla,Two-Wheeler
+Volvo,Motorcycle,10180,20-40,759386,Kolkata,Two-Wheeler
+Kia,Motorcycle,9469,30-50,886481,Raipur,Two-Wheeler
+Renault,Motorcycle,6771,25-45,1274888,Ranchi,Two-Wheeler
+Ford,Electric Cab,11834,20-40,1632061,Bhopal,Four-Wheeler
+Volkswagen,Motorcycle,14189,35-55,1271238,Pondicherry,Two-Wheeler
+Jaguar,Electric Bike,8364,35-55,411157,Raipur,Two-Wheeler
+Porsche,Electric SUV,6381,20-40,399431,Gwalior,Four-Wheeler
+Tesla,Electric Bike,11401,25-45,1500090,Gwalior,Two-Wheeler
+BMW,Motorcycle,10397,35-55,715891,Pondicherry,Two-Wheeler
+Skoda,Electric Bike,2973,20-40,731958,Guwahati,Two-Wheeler
+Mahindra Reva,Electric Bike Taxi,11512,18-35,751172,Thrissur,Two-Wheeler
+Polaris India,E-Rickshaw,11291,18-35,852729,Pondicherry,Two-Wheeler
+Eicher Motors,Electric Car Rental,1751,18-35,1455351,Kozhikode,Four-Wheeler
+Piaggio,Electric Bike Taxi,11352,35-55,1162607,Kolkata,Two-Wheeler
+Emflux Motors,Electric Car,13845,30-50,493383,Dehradun,Four-Wheeler
+Menza Motors,Electric Car Rental,8601,35-55,1430262,Gwalior,Four-Wheeler
+Hero Electric Photon,Electric Car Rental,8892,18-35,804512,Thrissur,Four-Wheeler
+Menza Lucat,Scooter,9578,35-55,1374210,Belgaum,Two-Wheeler
+Detel EV,Electric Bus,8724,18-35,1365492,Pune,Four-Wheeler
+Okaya Power,Electric Bus,9493,25-45,1437996,Udaipur,Four-Wheeler
+Evolve India,Motorcycle,4982,30-50,1321032,Indore,Two-Wheeler
+Hero Electric NYX,E-Bike Sharing,8462,20-40,847569,Indore,Two-Wheeler
+Indus Motors,Motorcycle,4085,20-40,1115476,Thrissur,Two-Wheeler
+Everve Motors,Electric SUV,11222,20-40,622185,Chennai,Four-Wheeler
+Tunwal E-Bike,Electric Cab,8735,18-35,1356889,Chennai,Four-Wheeler
+Avan Motors,Electric Cab,1908,18-35,1044209,Pondicherry,Four-Wheeler
+Hero Electric Optima,Electric Cab,4016,35-55,1503394,Pune,Four-Wheeler
+Tork Motors,Electric Cab,8988,18-35,872411,Tirupati,Four-Wheeler
+EeVe India,Electric Auto,7262,30-50,571614,Goa,Two-Wheeler
+Gogoro India,Electric Car Rental,1133,30-50,992198,Udaipur,Four-Wheeler
+BGauss,Electric SUV,4726,35-55,741740,Varanasi,Four-Wheeler
+Lectro E-Bikes,Electric Bike Taxi,14603,25-45,1609610,Kozhikode,Two-Wheeler
+Zoomcar,Electric Car,1313,20-40,1454619,Chennai,Four-Wheeler
+Blu Smart,Electric Bus,13814,35-55,1653741,Ludhiana,Four-Wheeler
+Yulu Bikes,E-Scooter Sharing,9261,18-35,1227622,Tirupati,Two-Wheeler
+Bounce,Scooter,4489,18-35,413229,Ahmedabad,Two-Wheeler
+Vogo,Electric Bike Taxi,14861,25-45,446985,Coimbatore,Two-Wheeler
+Rapido,E-Rickshaw,9442,20-40,1090216,Chennai,Two-Wheeler
+Drivezy,Scooter,9588,20-40,541462,Ranchi,Two-Wheeler
+Royal Brothers,Scooter,7802,35-55,1186931,Gwalior,Two-Wheeler
+Go Green E-Vehicles,Electric Car Rental,10130,30-50,1028038,Chennai,Four-Wheeler
+Mayuri E-Rickshaw,Electric Auto,11500,18-35,862995,Siliguri,Two-Wheeler
+YC Electric,Electric Bike,3637,35-55,440142,Rourkela,Two-Wheeler
+Aventose,E-Rickshaw,10197,35-55,1328844,Siliguri,Two-Wheeler
+Enigma Automobiles,E-Rickshaw,8225,20-40,1660574,Nagpur,Two-Wheeler
+Vespa,Electric Car Rental,5437,35-55,1322592,Kollam,Four-Wheeler
+EbikeGo,Electric Car,10720,20-40,1220033,Vishakhapatnam,Four-Wheeler
+M2GO,Electric Cab,13625,20-40,358850,Ludhiana,Four-Wheeler
+Tronx Motors,Electric Auto,10195,35-55,736510,Shimla,Two-Wheeler
+Ultraviolette Automotive,Electric Bike,4663,25-45,687763,Kolkata,Two-Wheeler
+Atumobile,Electric Car Rental,4850,18-35,1501049,Ahmedabad,Four-Wheeler
+Simple Energy,Electric Car Rental,3756,20-40,925943,Varanasi,Four-Wheeler
+Earth Energy EV,Scooter,10733,35-55,1365326,Ranchi,Two-Wheeler
+EVage,Electric Bike,8261,30-50,550479,Gwalior,Two-Wheeler
+Geliose Mobility,E-Scooter Sharing,8165,18-35,667979,Pune,Two-Wheeler
+Gravton Motors,Electric Cab,8509,25-45,1691989,Chandigarh,Four-Wheeler
+Joy e-Bike,E-Scooter Sharing,2285,18-35,1563538,Kolkata,Two-Wheeler
+Kabira Mobility,Scooter,9809,18-35,834485,Surat,Two-Wheeler
+Kratos Motors,Motorcycle,1005,20-40,619828,Bangalore,Two-Wheeler
+Odysse Electric,Electric Bike,7391,30-50,1550679,Coimbatore,Two-Wheeler
+Quantum Energy,Electric Bike Taxi,13130,35-55,1612662,Bhubaneswar,Two-Wheeler
+WardWizard Innovations,E-Bike Sharing,5215,35-55,889916,Bhopal,Two-Wheeler
+HOP Electric,Electric Bike,10843,35-55,1458155,Agra,Two-Wheeler
+One Electric,Motorcycle,2572,35-55,1606190,Varanasi,Two-Wheeler
+Crayon Motors,Electric Cab,7200,30-50,922257,Tiruchirappalli,Four-Wheeler
+Lohia Auto,Electric Car Rental,8426,35-55,806084,Dehradun,Four-Wheeler
+Benling India,Electric Bike Taxi,3462,30-50,1150669,Amritsar,Two-Wheeler
+Ujaas Energy,Electric Bike,4213,20-40,1496034,Kolkata,Two-Wheeler
+Verve Motors,Scooter,4948,25-45,409282,Delhi,Two-Wheeler
+Bgauss B8,E-Scooter Sharing,13649,30-50,512580,Varanasi,Two-Wheeler
+Atul Auto,Motorcycle,3053,35-55,888871,Vishakhapatnam,Two-Wheeler
+Evolet Pony,E-Bike Sharing,1471,20-40,447637,Siliguri,Two-Wheeler
+Hero Electric Dash,E-Scooter Sharing,2723,18-35,1316072,Mumbai,Two-Wheeler
+Okinawa iPraise+,Electric Bus,6751,30-50,1693175,Guwahati,Four-Wheeler
+Ather 450X,E-Bike Sharing,2115,18-35,637595,Gwalior,Two-Wheeler
+TVS iQube,Scooter,5686,35-55,357208,Dehradun,Two-Wheeler
+Ampere Magnus,Electric Bike,13293,30-50,1112636,Chandigarh,Two-Wheeler
+PURE EPluto,Electric Bike Taxi,9912,30-50,1457432,Goa,Two-Wheeler
+EeVe Ahava,E-Bike Sharing,2616,35-55,1574401,Dhanbad,Two-Wheeler
